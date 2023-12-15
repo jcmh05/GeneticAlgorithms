@@ -1,0 +1,11 @@
+Archivos=config2.txt
+Semillas=80275077 02750778 27507780 75077802
+Algoritmos=AlgoritmoEvolutivo AlgoritmoDiferencial
+Funcion=Potencia
+BLK_ALFA=true
+maxEvaluaciones=10000
+Poblacion=50
+TorneoSeleccion=3
+TorneoElite=4
+alfa=0.5
+FuncionError=RMSE MAPE

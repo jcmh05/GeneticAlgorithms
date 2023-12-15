@@ -1,0 +1,1 @@
+java -jar Practica2.jar daido-tra.dat config0.txt config1.txt config2.txt
